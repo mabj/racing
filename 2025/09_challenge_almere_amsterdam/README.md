@@ -30,7 +30,7 @@ Volume (hours):
 | Cycle | 3855 | 4244  | 47  | 110%  |
 | Run | 2385 | 2279 | 56 | 95% |
 
-![TCL History](/image/tp_ctl_history.png)
+![TCL History](/2025/09_challenge_almere_amsterdam/image/tp_ctl_history.png)
 
 ## What Went Bad
 
