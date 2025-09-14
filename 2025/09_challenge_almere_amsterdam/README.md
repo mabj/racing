@@ -1,6 +1,6 @@
 # Challenge Almere-Amsterdam 2025
 
-What: Triathlon Middle Distance
+What: Triathlon Middle Distance  
 Where: Almere, Netherlands  
 When: September 13th, 2025
 
