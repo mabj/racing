@@ -11,11 +11,11 @@ Breakdown:
 
 | Step | Distance | Time |
 | --- | --- | --- |
-| Swimming | 1900m | 42:32 |
+| 🏊 Swimming | 1900m | 42:32 |
 | T1 | | 11:12 |
-| Cycling | 94km | 3:13:54 |
+| 🚴 Cycling | 94km | 3:13:54 |
 | T2 | | 9:12 |
-| Running | 21.1km | 1:43:07 |
+| 🏃 Running | 21.1km | 1:43:07 |
 
 ## Training Plan
 
