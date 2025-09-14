@@ -5,7 +5,7 @@
 **When:** September 13th, 2025  
 
 ## Results
-Total time: `6:00:08`. 
+Total time: `6:00:08`  
 
 Breakdown:
 
