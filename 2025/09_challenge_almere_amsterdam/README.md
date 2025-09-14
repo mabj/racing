@@ -8,16 +8,18 @@ When: September 13th, 2025
 Total time: `6:00:08`. 
 
 Breakdown:
-- Swiming (1900m): 42:32
-- T1: 11:18
-- Cycling (94km): 3:13:54
-- T2: 9:12
-- Running (21.1km): 1:43:07
+
+| Step | Distance | Time |
+| --- | --- | --- |
+| Swimming | 1900m | 42:32 |
+| T1 | | 11:12 |
+| Cycling | 94km | 3:13:54 |
+| T2 | | 9:12 |
+| Running | 21.1km | 1:43:07 |
 
 ## Training Plan
 
-[Scientific Triathlon Training Plan](https://www.trainingpeaks.com/training-plans/triathlon/half-ironman/tp-157500/intermediate-half-distance-16-week-plan-videos-included-power-and-pace-based): Intermediate Half Distance 16-week plan - VIDEOS included (Power and Pace based).
-
+TrainingPeaks [Scientific Triathlon's Training Plan](https://www.trainingpeaks.com/training-plans/triathlon/half-ironman/tp-157500/intermediate-half-distance-16-week-plan-videos-included-power-and-pace-based): Intermediate Half Distance 16-week plan - VIDEOS included (Power and Pace based).
 
 ## Statistics
 
@@ -26,7 +28,9 @@ Volume (hours):
 | ---- | --- | --- | --- | --- |
 | Swim | 1800 | 1713 | 41 |  95% |
 | Cycle | 3855 | 4244  | 47  | 110%  |
-| Run |   |   |   |   |
+| Run | 2385 | 2279 | 56 | 95% |
+
+![TCL History](/image/tp_ctl_history.png)
 
 ## What Went Bad
 
@@ -46,12 +50,14 @@ Volume (hours):
 - Did not use any sunscreen;
 - Did not use any cap to protect during running; 
 - Should have used two swimming caps to have the swimming glasses in place;
+- Too much wind! Aero-things must make a lot of difference - arm/calf covers and TT bike;
 
 ## What Went Good
 
-- ZERO injuries during training cycle;
+- ZERO injuries during training cycle (!);
 - Bike maintanance and waxing the day before;
 - Running and Swimming pacing;
 - Good training Cycle and consistance;
 - Practiced some biking strategies (standing after deacelaration or up-hill);
+- Followed a structured training program prepared by a professional Triathlon Coach;
 
