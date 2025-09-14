@@ -62,3 +62,9 @@ Volume:
 - Good training cycle and consistency;
 - Practiced some cycling strategies (standing after deceleration or up-hill);
 - Followed a structured training program prepared by a professional Triathlon Coach;
+
+## References
+
+<pre>
+    - https://challenge-almere.com/
+</pre>
