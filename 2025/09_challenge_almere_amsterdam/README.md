@@ -34,6 +34,7 @@ Volume:
 | Running | 2385 (40h) | 2279 (38h) | 56 | 95% |
 | All | 8040 (134h) | 8236 (138h) | 144 | 102% | 
 
+Average of **11.5 hours per week**.  
 
 ![TCL History](/2025/09_challenge_almere_amsterdam/image/tp_ctl_history.png)
 
