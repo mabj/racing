@@ -25,12 +25,12 @@ This training cycle started on `May 25th, 2025`.
 
 ## Statistics
 
-Volume (hours):
-| Sport| Planned (hours) | Performed (Hours) | Amount of Sessions | Accomplishment Rate (%) |
+Volume:
+| Sport| Planned (minutes) | Performed (minutes) | Amount of Sessions | Accomplishment Rate (%) |
 | ---- | --- | --- | --- | --- |
-| Swim | 1800 | 1713 | 41 |  95% |
-| Cycle | 3855 | 4244  | 47  | 110%  |
-| Run | 2385 | 2279 | 56 | 95% |
+| Swim | 1800 (30h) | 1713 (28h) | 41 |  95% |
+| Cycle | 3855 (64h) | 4244 (72h)  | 47  | 110%  |
+| Run | 2385 (40h) | 2279 (38h) | 56 | 95% |
 
 ![TCL History](/2025/09_challenge_almere_amsterdam/image/tp_ctl_history.png)
 
