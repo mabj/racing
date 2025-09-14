@@ -21,6 +21,13 @@ Breakdown:
 
 ## Statistics
 
+Volume (hours):
+| Sport| Planned (hours) | Performed (Hours) | Amount of Sessions | Acumplishment Rate (%) |
+| ---- | --- | --- | --- | --- |
+| Swim | 1800 | 1713 | 41 |  95% |
+| Cycle | 3855 | 4244  | 47  | 110%  |
+| Run |   |   |   |   |
+
 ## What Went Bad
 
 - Spent too much time in transitions (20:30);
@@ -38,10 +45,13 @@ Breakdown:
 - Just realized that there were pockets in the TriSuit after the race;
 - Did not use any sunscreen;
 - Did not use any cap to protect during running; 
-- Should use two swimming cap to have the swimming glasses in place;
+- Should have used two swimming caps to have the swimming glasses in place;
 
 ## What Went Good
 
+- ZERO injuries during training cycle;
 - Bike maintanance and waxing the day before;
-- Running pacing;
+- Running and Swimming pacing;
+- Good training Cycle and consistance;
+- Practiced some biking strategies (standing after deacelaration or up-hill);
 
