@@ -1,8 +1,8 @@
 # Challenge Almere-Amsterdam 2025
 
-What: Triathlon Middle Distance ("Ironman 70.3")  
-Where: Almere, Netherlands  
-When: September 13th, 2025
+**What:** Triathlon Middle Distance ("Ironman 70.3")  
+**Where:** Almere, Netherlands  
+**When:** September 13th, 2025  
 
 ## Results
 Total time: `6:00:08`. 
