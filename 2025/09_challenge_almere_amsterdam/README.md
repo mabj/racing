@@ -41,7 +41,7 @@ Average of **11.5 hours per week**.
 ## What Went Wrong
 
 - Spent too much time in transitions (20:30);
-- Took too long to find bike-hanging spot during T1 and T2 (I need a better system to memorize this path);
+- Took too long to find "*bike-hanging spot*" during T1 and T2 (I need a better system to memorize this path);
 - Poor nutrition strategy - consumed only 90g carbs while cycling, 46g while running, plus 1 isotonic drink during the run;
 - Used untested nutrition products (bought during the day before the event);
 - Starting the swim on the "inside" (overcrowded side);
