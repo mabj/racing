@@ -16,6 +16,7 @@ Breakdown:
 | 🚴 Cycling | 94km | 3:13:54 |
 | T2 | | 9:12 |
 | 🏃 Running | 21.1km | 1:43:07 |
+| 📋 Total | 117km | 6:00:08 |
 
 ## Training Plan
 
@@ -28,10 +29,10 @@ This training cycle started on `May 25th, 2025`.
 Volume:
 | Sport| Planned (minutes) | Performed (minutes) | Amount of Sessions | Accomplishment Rate (%) |
 | ---- | --- | --- | --- | --- |
-| Swim | 1800 (30h) | 1713 (28h) | 41 |  95% |
-| Cycle | 3855 (64h) | 4244 (72h)  | 47  | 110%  |
-| Run | 2385 (40h) | 2279 (38h) | 56 | 95% |
-
+| Swimming | 1800 (30h) | 1713 (28h) | 41 |  95% |
+| Cycling | 3855 (64h) | 4244 (72h)  | 47  | 110% |
+| Running | 2385 (40h) | 2279 (38h) | 56 | 95% |
+| All | 8040 (134h) | 8236 (138h) | 144 | 102% | 
 ![TCL History](/2025/09_challenge_almere_amsterdam/image/tp_ctl_history.png)
 
 ## What Went Wrong
