@@ -24,7 +24,7 @@ TrainingPeaks [Scientific Triathlon's Training Plan](https://www.trainingpeaks.c
 ## Statistics
 
 Volume (hours):
-| Sport| Planned (hours) | Performed (Hours) | Amount of Sessions | Acumplishment Rate (%) |
+| Sport| Planned (hours) | Performed (Hours) | Amount of Sessions | Accomplishment Rate (%) |
 | ---- | --- | --- | --- | --- |
 | Swim | 1800 | 1713 | 41 |  95% |
 | Cycle | 3855 | 4244  | 47  | 110%  |
@@ -32,32 +32,32 @@ Volume (hours):
 
 ![TCL History](/2025/09_challenge_almere_amsterdam/image/tp_ctl_history.png)
 
-## What Went Bad
+## What Went Wrong
 
 - Spent too much time in transitions (20:30);
-- Poor Nutrition - 90g carb (Cycling) + 46g (Running) + 1 iso (Running);
+- Poor nutrition strategy - consumed only 90g carbs while cycling, 46g while running, plus 1 isotonic drink during the run;
 - Used untested nutrition products (bought during the day before the event);
 - Starting the swimming on the "inside" (overcrowded side);
-- Should have more bottle supports in the bicycle (from 2 to 4 supports) to also have plain water;
-- Powermeter of bike did not work - made it difficult for pacing correctly;
-- Discovered that the problem was because I didn't callibrated it before the race;
-- Arrived late on race-day (only 1.5 hours before the race);
-- I need to train openwater swimming on wind days (with waves);
-- Did not practice triathon laces (this took some of my T2 time);
-- Bib support not in the right size and kept faling during running and sycling;
+- Should have more bottle cages in the bicycle (from 2 to 4 cages) to also have plain water;
+- Bike's power meter did not work - made it difficult for pacing correctly;
+- Discovered that the problem was because I didn't calibrate it before the race;
+- Arrived late on race day (only 1.5 hours before the start);
+- I need to train open-water swimming in windy conditions (with waves);
+- Did not practice triathlon laces (this took some of my T2 time);
+- Bib support not in the right size and kept falling during running and cycling;
 - Did not test the TriSuit before the race;
 - Just realized that there were pockets in the TriSuit after the race;
 - Did not use any sunscreen;
 - Did not use any cap to protect during running; 
-- Should have used two swimming caps to have the swimming glasses in place;
-- Too much wind! Aero-things must make a lot of difference - arm/calf covers and TT bike;
+- Should have used two swimming caps to have the swim goggles in place;
+- Very windy conditions! Aerodynamic equipment would have made a significant difference - arm/calf covers and TT bike;
 
-## What Went Good
+## What Went Well
 
 - ZERO injuries during training cycle (!);
-- Bike maintanance and waxing the day before;
+- Bike maintenance and waxing the day before;
 - Running and Swimming pacing;
-- Good training Cycle and consistance;
-- Practiced some biking strategies (standing after deacelaration or up-hill);
+- Good training cycle and consistency;
+- Practiced some biking strategies (standing after deceleration or up-hill);
 - Followed a structured training program prepared by a professional Triathlon Coach;
 
