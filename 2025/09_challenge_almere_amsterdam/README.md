@@ -66,9 +66,11 @@ Average of **11.5 hours per week**.
 - Good training cycle and consistency;
 - Practiced some cycling strategies (standing after deceleration or up-hill);
 - Followed a structured training program prepared by a professional Triathlon Coach;
+- Very good swimming advises from [Effortless Swimming](https://www.youtube.com/user/EffortlessSwimming).
 
 ## References
 
 <pre>
     - https://challenge-almere.com/
+    - https://www.youtube.com/user/EffortlessSwimming
 </pre>
