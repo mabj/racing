@@ -26,7 +26,7 @@ This training cycle started on `May 25th, 2025`.
 
 ## Statistics
 
-Volume:
+Training volume:
 | Sport| Planned (minutes) | Performed (minutes) | Amount of Sessions | Accomplishment Rate (%) |
 | ---- | --- | --- | --- | --- |
 | Swimming | 1800 (30h) | 1713 (28h) | 41 |  95% |
