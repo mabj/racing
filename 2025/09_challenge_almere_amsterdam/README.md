@@ -52,6 +52,7 @@ Average of **11.5 hours per week**.
 - I need to train for open-water swimming in windy conditions (with waves);
 - Did not practice triathlon laces (this took some of my T2 time);
 - Bib support was not in the right size and kept falling during running and cycling;
+- Because of ☝️, I only got 20 photos (system could not parse my BIB number);
 - Did not test the TriSuit before the race;
 - Just realized that there were pockets in the TriSuit after the race;
 - Did not use any sunscreen;
