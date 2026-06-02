@@ -26,12 +26,12 @@ No structured training plan was followed. Training cycle started in **February 2
 ## Statistics
 
 Training volume (Feb–Jun 2026, 18-week cycle):
-| Sport    | Sessions | Performed (min) | Hours |
-| -------- | -------- | --------------- | ----- |
-| Swimming |    11    |      545        |  9.1h |
-| Cycling  |    31    |    2,596        | 43.3h |
-| Running  |    48    |    2,535        | 42.2h |
-| All      |    90    |    5,676        | 94.6h |
+| Sport    | Sessions | Performed (min) | Hours | Avg h/week |
+| -------- | -------- | --------------- | ----- | ---------- |
+| Swimming |    11    |      545        |  9.1h |    0.5h    |
+| Cycling  |    31    |    2,596        | 43.3h |    2.4h    |
+| Running  |    48    |    2,535        | 42.2h |    2.3h    |
+| All      |    90    |    5,676        | 94.6h |    5.2h    |
 
 Average of **5.2 hours per week**.
 
