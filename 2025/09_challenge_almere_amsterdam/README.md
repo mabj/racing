@@ -43,32 +43,32 @@ Average of **11.5 hours per week**.
 - Spent too much time in transitions (20:30);
 - Took too long to find "*bike-hanging spot*" during T1 and T2 (I need a better system to memorize this path);
 - Poor nutrition strategy - consumed only 90g carbs while cycling, 46g while running, plus 1 isotonic drink during the run;
-- Used untested nutrition products (bought during the day before the event);
+- Used untested nutrition products (bought the day before the event);
 - Starting the swim on the "inside" (overcrowded side);
 - Should have had more bottle cages on the bicycle (from 2 to 4 cages) to also have plain water;
-- Bike's power meter did not work - made it difficult for pacing correctly;
+- Bike's power meter did not work - made it difficult to pace correctly;
 - Discovered that the problem was that I didn't calibrate it before the race;
 - Arrived late on race day (only 1.5 hours before the start);
 - I need to train for open-water swimming in windy conditions (with waves);
 - Did not practice triathlon laces (this took some of my T2 time);
 - Bib support was not in the right size and kept falling during running and cycling;
-- Because of ☝️, I only got 20 photos (system could not parse my BIB number);
+- Because of ☝️, I only got 20 photos (the system could not parse my BIB number);
 - Did not test the TriSuit before the race;
 - Just realized that there were pockets in the TriSuit after the race;
 - Did not use any sunscreen;
 - Did not use any cap for protection during running;
-- Should have used two swimming caps to have the swim goggles in place;
+- Should have used two swimming caps to keep the swim goggles in place;
 - Very windy conditions! Aerodynamic equipment would have made a significant difference - arm/calf covers and TT bike;
 
 ## What Went Well
 
-- ZERO injuries during training cycle (!);
+- ZERO injuries during the training cycle (!);
 - Bike maintenance and waxing the day before;
-- Running and Swimming pacing;
+- Running and swimming pacing;
 - Good training cycle and consistency;
-- Practiced some cycling strategies (standing after deceleration or up-hill);
-- Followed a structured training program prepared by a professional Triathlon Coach;
-- Very good swimming advises from [Effortless Swimming](https://www.youtube.com/user/EffortlessSwimming);
+- Practiced some cycling strategies (standing after deceleration or uphill);
+- Followed a structured training program prepared by a professional triathlon coach;
+- Very good swimming advice from [Effortless Swimming](https://www.youtube.com/user/EffortlessSwimming);
 
 ## References
 
