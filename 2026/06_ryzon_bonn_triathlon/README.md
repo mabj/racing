@@ -21,19 +21,32 @@ Breakdown:
 
 ## Training Plan
 
-TBD — Training plan name/link and start date.
+No structured training plan was followed. Training cycle started in **February 2026** (~18 weeks to race day). See *What Went Wrong*.
 
 ## Statistics
 
-Training volume:
-| Sport | Planned (minutes) | Performed (minutes) | Amount of Sessions | Accomplishment Rate (%) |
-| ---- | --- | --- | --- | --- |
-| Swimming | TBD | TBD | TBD | TBD |
-| Cycling | TBD | TBD | TBD | TBD |
-| Running | TBD | TBD | TBD | TBD |
-| All | TBD | TBD | TBD | TBD |
+Training volume (Feb–Jun 2026, 18-week cycle):
+| Sport    | Sessions | Performed (min) | Hours |
+| -------- | -------- | --------------- | ----- |
+| Swimming |    11    |      545        |  9.1h |
+| Cycling  |    31    |    2,596        | 43.3h |
+| Running  |    48    |    2,535        | 42.2h |
+| All      |    90    |    5,676        | 94.6h |
 
-Average of **TBD hours per week**.
+Average of **5.2 hours per week**.
+
+![Monthly Training Hours](/2026/06_ryzon_bonn_triathlon/image/activity_monthly_hours.png)
+
+![Full Year Training History](/2026/06_ryzon_bonn_triathlon/image/activity_training_history.png)
+
+![Sport Distribution](/2026/06_ryzon_bonn_triathlon/image/activity_sport_distribution.png)
+
+### Key Insights
+
+- **Swimming was the neglected discipline**: 0 swim sessions in Feb–Mar, then 10 in Apr–May — a very late start for a 4.2km open-water race (the longest swim distance tackled in training was ~3.4km);
+- **Cycling and running were nearly equal in volume**: 43.3h vs 42.2h, each around 45% of total training time; swimming got only 10%;
+- **April was the peak month**: 30.3h total (18.1h cycling alone, 13 bike sessions) — a large volume spike after a low-output winter;
+- **Volume was roughly half of the previous triathlon cycle**: compared to Challenge Almere 2025 (94.6h vs 138h, 5.2h/week vs 11.5h/week with a structured plan).
 
 ## Sleep Analysis (Sep 2025 – May 2026)
 
