@@ -90,11 +90,20 @@ September 2025 was near-perfect (score 82.5, only 7 minutes short of sleep need)
 
 ## What Went Wrong
 
-- TBD
+- ripple effect of sleep deficit due to paternity in November 2025
+- restarted training too late (there was no other way) and too slow in 2026 (in Feb)
+- took too long to restart swimming training in 2026 (in April)
+- didn't follow a structured training program
 
 ## What Went Well
 
-- TBD
+- integrating lower-body strengthening with aerobic training: trail running and wearing zero-drop shoes (Altra)
+- half-marathon in May and a few smaller local races (16km and 8km) as benchmark races
+- managed to push through some volume WITHOUT injuring myself
+- managed to do some indoor bike training using Zwift (during winter)
+- better bike maintenance (tyres, chain, waxing) -> better power throughput
+- registered myself in a 2 sessions summer swimming clinic \O/
+- better educated about nutrition - carb intake + electrolytes
 
 ## References
 
