@@ -67,6 +67,45 @@
 
 *Targets, not commitments — adjust to conditions and how the day feels.*
 
+## Fueling Plan
+
+Built for a **65 kg, 41-year-old amateur** over a **~5:15–5:45** race. The strategy: **front-load and bank carbs on the bike** (hands free, GI tolerates more, ~2.5–2.8 h of steady effort), keep the run topped up with what the stomach will still take, and **never start a leg dehydrated**. June in Bonn can be warm/sunny — if it's hot (>22 °C), push to the upper end of fluid and sodium.
+
+### Per-Hour Targets
+
+| Leg | Carbs / h | Fluid / h | Sodium / h | Notes |
+| --- | --- | --- | --- | --- |
+| 🏊 Swim (~70 min) | — (fast from breakfast) | — | — | No intake in-water; the pre-race top-up gel carries you. |
+| 🚴 Bike (~2.5–2.8 h) | **70–90 g** | **500–750 ml** | **500–700 mg** | Your main fueling window — bank the bulk of the day's carbs here. |
+| 🏃 Run (~1.25–1.5 h) | **50–60 g** | **400–600 ml** (sips) | **400–600 mg** | Drop carbs to what the gut tolerates running; lean on aid stations. |
+
+> Rule of thumb for your weight: **~1.0–1.2 g carbs per kg per hour** on the bike (= 65–80 g) is a safe, trainable target; 90 g/h only if you've practiced it. **Sodium ~500–700 mg/h** baseline, up to ~800–1000 mg/h if you're a salty/heavy sweater or it's hot.
+
+### Timeline & Amounts
+
+**Pre-race (the foundation)**
+- **~06:30 breakfast, ~3 h out:** 1.5–2 g carbs/kg = **~100–130 g** (e.g. oats + banana + honey + a sports drink), low fibre/fat. Sip ~500 ml fluid with a pinch of salt.
+- **09:00, ~30 min pre-swim:** one **25 g gel** + a few sips of water. This is what fuels the swim.
+
+**Bike — target ~190–230 g total carbs**
+- **Carb mix bottle:** 750 ml at **~80 g/L = ~60 g carbs** + electrolytes (aim ~600–800 mg sodium in it). Refill/replace from the **~km 41 aid station**.
+- **Plain-water bottle:** for drinking to thirst, dousing, and washing down gels — keep it separate from the mix (Almere lesson).
+- **Gels/chews:** ~**1 every 30–40 min** (≈3–4 over the bike, 25 g each). Take the first within the first easy 15 min, then on a schedule — don't wait until you feel low.
+- **Electrolytes:** the mix + a salt capsule if it's hot covers the 500–700 mg/h.
+
+**Run — target ~60–80 g total carbs**
+- **Gel every ~30–35 min** (≈2–3 over 15 km), each washed down with water at the aid station.
+- **Aid station ~6× total:** alternate small sips of water and electrolyte/cola where offered; don't overdrink and slosh.
+- If the stomach rebels, switch to **liquid carbs / cola** and slow the carb rate — finishing matters more than hitting the gram target.
+
+### Quick Shopping/Packing Math
+- **~8–10 gels total** (1 pre-race, 3–4 bike, 2–3 run) + spares.
+- **~2 bottles** on the bike (1 carb mix ~60 g, 1 plain water) + **1 refill** at km 41.
+- **Electrolyte tabs/capsules** to hit ~500–700 mg sodium/h (more if hot).
+- **All products tested in training** — race day is not the day to try anything new (Almere lesson).
+
+> ⚠️ **Practice this exact plan on a long brick before race day.** 70–90 g/h is a *trained* gut skill; rehearsing it is the difference between banking energy and a GI blow-up.
+
 ## Pre-Race Checklist (lessons from Almere 2025)
 
 Each line is a concrete fix for something that went wrong at Almere-Amsterdam 2025.
