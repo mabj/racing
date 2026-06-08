@@ -6,18 +6,18 @@
 
 ## Results
 
-Total time: `TBD`
+Total time: `4:28:33`
 
 Breakdown:
 
 | Step | Distance | Time |
 | --- | --- | --- |
-| 🏊 Swimming | 4200m | TBD |
-| T1 | -- | TBD |
-| 🚴 Cycling | 65km | TBD |
-| T2 | -- | TBD |
-| 🏃 Running | 15km | TBD |
-| 📋 Total | 84.2km | TBD |
+| 🏊 Swimming | 4200m | 0:35:49 |
+| T1 | -- | 0:09:13 |
+| 🚴 Cycling | 65km | 2:26:27 |
+| T2 | -- | 0:04:22 |
+| 🏃 Running | 15km | 1:12:42 |
+| 📋 Total | 84.2km | 4:28:33 |
 
 ## Training Plan
 
