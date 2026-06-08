@@ -41,7 +41,7 @@ Average of **5.2 hours per week**.
 
 ![Sport Distribution](/2026/06_ryzon_bonn_triathlon/image/activity_sport_distribution.png)
 
-### Key Insights
+### Key Insights (swimming)
 
 - **Swimming was the neglected discipline**: 0 swim sessions in Feb–Mar, then 10 in Apr–May — a very late start for a 4.2km open-water race (the longest swim distance tackled in training was ~3.4km);
 - **Cycling and running were nearly equal in volume**: 43.3h vs 42.2h, each around 45% of total training time; swimming got only 10%;
@@ -113,6 +113,13 @@ The full race-day plan — timeline, per-leg pacing targets, and a pre-race chec
 - restarted training too late (there was no other way) and too slow in 2026 (in Feb)
 - took too long to restart swimming training in 2026 (in April)
 - didn't follow a structured training program
+- T1 is still too slow (9 minutes). Did not find my socks (they were deep inside the running shoes)
+- felt not confident on downhills (need to practice it in Campobasso)
+- didn't remove cycling shoes in the dismount zone heading to T2
+- forgot to use sunscreen
+- need to buy a running cap
+- lack of upper-body strengthening. Felt some discomfort in shoulder, chest and biceps during swimming
+- forgot to apply vaseline on the back of the neck. My wetsuit was rubbing on my neck and causing chafing.
 
 ## What Went Well
 
@@ -123,6 +130,9 @@ The full race-day plan — timeline, per-leg pacing targets, and a pre-race chec
 - better bike maintenance (tyres, chain, waxing) -> better power throughput
 - registered myself in a 2 sessions summer swimming clinic \O/
 - better educated about nutrition - carb intake + electrolytes
+- first time using LLMs to organize race-day and TODO lists
+- aerobic baseline is everything
+- experimented with Maurten (it works!)
 
 ## References
 

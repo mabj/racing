@@ -6,7 +6,7 @@
 
 | Time | Action |
 | --- | --- |
-| ~05:30 | Wake. Breakfast ~3h pre-start: carbs + fluid (target ~9:00 done eating, light top-up gel at 09:00). |
+| ~05:30 | Wake. Breakfast ~3h pre-start: carbs + fluid (light top-up gel at 09:00). |
 | 06:15–06:30 | Arrive transition (Bahnhöfchen car park, Rheinaustraße 122, under Kennedy Bridge). |
 | 06:30–07:30 | **Bike + helmet check-in together (closes 08:15!)**. Rack box, set up T1/T2, pump tyres, mount bottles, **calibrate the power meter**, apply sunscreen. **Memorize the rack spot** (count rows + pick a landmark). |
 | ~07:40–08:00 | Walk ~600m (10 min) to shuttle pickup (Johann-Link-Str./Hermannstr.), ride to swim start at Kameha. **Shuttle closes 08:30 — do not cut this fine.** |
