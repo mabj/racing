@@ -28,12 +28,12 @@ No structured training plan was followed. Training cycle started in **February 2
 Training volume (Feb–Jun 2026, 18-week cycle):
 | Sport    | Sessions | Performed (min) | Hours | Avg h/week |
 | -------- | -------- | --------------- | ----- | ---------- |
-| Swimming |    11    |      545        |  9.1h |    0.5h    |
-| Cycling  |    31    |    2,596        | 43.3h |    2.4h    |
-| Running  |    48    |    2,535        | 42.2h |    2.3h    |
-| All      |    90    |    5,676        | 94.6h |    5.2h    |
+| Swimming |    12    |      562        |  9.4h |    0.5h    |
+| Cycling  |    34    |    2,705        | 45.1h |    2.5h    |
+| Running  |    50    |    2,594        | 43.2h |    2.4h    |
+| All      |    96    |    5,861        | 97.7h |    5.4h    |
 
-Average of **5.2 hours per week**.
+Average of **5.4 hours per week**.
 
 ![Monthly Training Hours](/2026/06_ryzon_bonn_triathlon/image/activity_monthly_hours.png)
 
@@ -43,10 +43,10 @@ Average of **5.2 hours per week**.
 
 ### Key Insights (swimming)
 
-- **Swimming was the neglected discipline**: 0 swim sessions in Feb–Mar, then 10 in Apr–May — a very late start for a 4.2km open-water race (the longest swim distance tackled in training was ~3.4km);
-- **Cycling and running were nearly equal in volume**: 43.3h vs 42.2h, each around 45% of total training time; swimming got only 10%;
+- **Swimming was the neglected discipline**: 0 swim sessions in Feb–Mar, then 12 across Apr–Jun (4 · 6 · 2) — a very late start for a 4.2km open-water race (the longest swim distance tackled in training was ~3.4km);
+- **Cycling and running were nearly equal in volume**: 45.1h vs 43.2h, roughly 46% and 44% of total training time; swimming got only ~10%;
 - **April was the peak month**: 30.3h total (18.1h cycling alone, 13 bike sessions) — a large volume spike after a low-output winter;
-- **Volume was roughly half of the previous triathlon cycle**: compared to Challenge Almere 2025 (94.6h vs 138h, 5.2h/week vs 11.5h/week with a structured plan).
+- **Volume was roughly half of the previous triathlon cycle**: compared to Challenge Almere 2025 (97.7h vs 138h, 5.4h/week vs 11.5h/week with a structured plan).
 
 ## Sleep Analysis (Sep 2025 – May 2026)
 
