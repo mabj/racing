@@ -21,7 +21,7 @@ Breakdown:
 
 ## Training Plan
 
-I will bring some aerobic foundation from my previous race ([Ryzon Bonn Triathlon](/2026/06_ryzon_bonn_triathlon/README.md)), but I will only have a **13-week** training cycle for this race — starting from Monday, 15th of June 2026. The idea here is to implement a shortened version of TrainingPeaks [Scientific Triathlon's Training Plan: Intermediate Half Distance 16-week plan - VIDEOS included (Power and Pace based)](https://www.trainingpeaks.com/training-plans/triathlon/half-ironman/tp-157500/intermediate-half-distance-16-week-plan-videos-included-power-and-pace-based).  
+I will bring some aerobic foundation from my previous race ([Ryzon Bonn Triathlon](/2026/06_ryzon_bonn_triathlon/README.md)), but I will only have a **13-week** training cycle for this race — starting from Monday, 15th of June 2026. The idea here is to implement a shortened version of [Scientific Triathlon's Intermediate Half Distance 16-week plan](https://www.trainingpeaks.com/training-plans/triathlon/half-ironman/tp-157500/intermediate-half-distance-16-week-plan-videos-included-power-and-pace-based).  
 
 ## Statistics
 
