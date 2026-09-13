@@ -63,6 +63,8 @@ A detailed analysis of sleep quality, duration, and deficit across the training 
 - Did not check the course before the race;
 - Wasted time during T1 to wear the cycling shoes (wear it from beginning or leave it mounted in the bike?);
 - Forgot to wear the chest bib during the cycling;
+- Did not do strengthening exercises during the training cycle (could feel discomfort on right foot during running);
+- Should have done more long cycling sessions (>60km) and outdoor cycling training;
 
 ## What Went Well
 
