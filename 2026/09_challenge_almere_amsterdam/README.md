@@ -65,6 +65,7 @@ A detailed analysis of sleep quality, duration, and deficit across the training 
 - Forgot to wear the chest bib during the cycling;
 - Did not do strengthening exercises during the training cycle (could feel discomfort on right foot during running);
 - Should have done more long cycling sessions (>60km) and outdoor cycling training;
+- Should have taken a post-race snack with me;
 
 ## What Went Well
 
