@@ -71,6 +71,6 @@ A detailed analysis of sleep quality, duration, and deficit across the training 
 
 ## References
 
-<pre>
+```[text]
     - https://challenge-almere.com/races/middle-distance/
-</pre>
+```
