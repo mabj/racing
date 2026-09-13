@@ -6,18 +6,18 @@
 
 ## Results
 
-Total time: `<TBD>`
+Total time: `05:55:19`
 
 Breakdown:
 
 | Step | Distance | Time |
 | --- | --- | --- |
-| 🏊 Swimming | 1900m | `<TBD>` |
-| T1 | -- | `<TBD>` |
-| 🚴 Cycling | 94km | `<TBD>` |
-| T2 | -- | `<TBD>` |
-| 🏃 Running | 21.1km | `<TBD>` |
-| 📋 Total | 117km | `<TBD>` |
+| 🏊 Swimming | 1900m | `0:42:29` |
+| T1 | -- | `00:06:38` |
+| 🚴 Cycling | 94km | `03:06:44` |
+| T2 | -- | `00:06:56` |
+| 🏃 Running | 21.1km | `01:52:34` |
+| 📋 Total | 117km | `05:55:19` |
 
 ## Training Plan
 
@@ -29,27 +29,29 @@ Training volume (Jun–Sep 2026, **13-week** cycle):
 
 | Sport    | Sessions | Performed (min) | Hours | Avg h/week |
 | -------- | -------- | --------------- | ----- | ---------- |
-| Swimming |   `<TBD>`   |     `<TBD>`     | `<TBD>` |   `<TBD>`   |
-| Cycling  |   `<TBD>`   |     `<TBD>`     | `<TBD>` |   `<TBD>`   |
-| Running  |   `<TBD>`   |     `<TBD>`     | `<TBD>` |   `<TBD>`   |
-| All      |   `<TBD>`   |     `<TBD>`     | `<TBD>` |   `<TBD>`   |
+| Swimming |    28    |    1,083        | 18.1h |    1.4h    |
+| Cycling  |    35    |    2,426        | 40.4h |    3.2h    |
+| Running  |    38    |    1,810        | 30.2h |    2.4h    |
+| All      |   101    |    5,319        | 88.7h |    6.97h   |
 
-Average of **`<TBD>` hours per week**.
+Average of **6.97 hours per week**.
 
-<!-- TODO: generate and link charts (see project chart conventions). -->
-<!-- ![Monthly Training Hours](/2026/09_challenge_almere_amsterdam/image/activity_monthly_hours.png) -->
-<!-- ![Full Year Training History](/2026/09_challenge_almere_amsterdam/image/activity_training_history.png) -->
-<!-- ![Sport Distribution](/2026/09_challenge_almere_amsterdam/image/activity_sport_distribution.png) -->
+![Monthly Training Hours](/2026/09_challenge_almere_amsterdam/image/activity_monthly_hours.png)
+
+![Full Year Training History](/2026/09_challenge_almere_amsterdam/image/activity_training_history.png)
+
+![Sport Distribution](/2026/09_challenge_almere_amsterdam/image/activity_sport_distribution.png)
 
 ### Key Insights
 
-- `<TBD>`
-- `<TBD>`
-- `<TBD>`
+- **Cycling led the volume** (40.4h, 46% of total), followed by running (30.2h, 34%) and swimming (18.1h, 20%) — a more balanced split than Bonn's cycle, where swimming got only ~10%;
+- **Swimming ramped up steadily instead of starting late**: 5 sessions in the first (partial) month, climbing to 10 in July and 12 in August, before tapering to 2 in September — the opposite pattern from Bonn, where swimming was neglected until April;
+- **September taper is visible**: only 12 sessions and 10.2h logged before race day (Sep 1–12) versus 30.5h in July and 34.4h in August, and that same taper week produced the best sleep score of the cycle (76, Sep 7–11);
+- **Shorter but more consistent cycle than Bonn**: 6.97h/week average over 12.7 weeks versus Bonn's 5.4h/week over 18 weeks — less total time (88.7h vs 97.7h) but a tighter, more continuous build straight off the back of a race.
 
 ## Sleep Analysis
 
-A detailed analysis of sleep quality, duration, and deficit across the training cycle lives in a dedicated document: [SLEEP_ANALYSIS.md](./SLEEP_ANALYSIS.md).
+A detailed analysis of sleep quality, duration, and deficit across the training cycle (Jun–Sep 2026) lives in a dedicated document: [SLEEP_ANALYSIS.md](./SLEEP_ANALYSIS.md).
 
 ---
 
@@ -61,13 +63,19 @@ The full race-day plan — timeline, per-leg pacing targets, and a pre-race chec
 
 ## What Went Wrong
 
-<!-- TODO: fill in after the race. -->
-- `<TBD>`
+- Did not test my watch before the race and lost all data;
+- Lack of planning on nutrition
+- Did not took running equipment when checking in the bike (I could have left it all there during the day before the race);
+- Did not have breakfast at all;
+- Did not check the corses before the race;
+- Wasted time during T1 to wear the cycling shoes (wear it from begining or leave it mounted in the bike?);
 
 ## What Went Well
 
-<!-- TODO: fill in after the race. -->
-- `<TBD>`
+- Used bike monitor to pacing cycling;
+- Slept well the night before the race (> 6h);
+- Tested Maurten Carb Gel - it really works for me.
+- 
 
 ## References
 
