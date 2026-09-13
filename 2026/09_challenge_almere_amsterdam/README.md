@@ -60,14 +60,19 @@ A detailed analysis of sleep quality, duration, and deficit across the training 
 - Lack of planning on nutrition
 - Did not took running equipment when checking in the bike (I could have left it all there during the day before the race);
 - Did not have breakfast at all;
-- Did not check the corses before the race;
+- Did not check the corse before the race;
 - Wasted time during T1 to wear the cycling shoes (wear it from begining or leave it mounted in the bike?);
+- Forgot to wear the chest bib during the cycling;
 
 ## What Went Well
 
 - Used bike monitor to pacing cycling;
 - Slept well the night before the race (> 6h);
-- Tested Maurten Carb Gel - it really works for me
+- Carb-loading starting 3 days before the race;
+- Tested Maurten Carb Gel - it really works for me;
+- Vaseline in the neck and ankles for swimming;
+- Calibrate the bike tyres correctly before the racing (65-73 PSI);
+- better planing on Transitions (T1 and T2);
 
 ## References
 
