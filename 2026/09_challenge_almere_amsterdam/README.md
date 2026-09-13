@@ -74,8 +74,7 @@ The full race-day plan — timeline, per-leg pacing targets, and a pre-race chec
 
 - Used bike monitor to pacing cycling;
 - Slept well the night before the race (> 6h);
-- Tested Maurten Carb Gel - it really works for me.
-- 
+- Tested Maurten Carb Gel - it really works for me
 
 ## References
 
