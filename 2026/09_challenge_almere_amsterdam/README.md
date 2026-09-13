@@ -53,16 +53,9 @@ Average of **6.97 hours per week**.
 
 A detailed analysis of sleep quality, duration, and deficit across the training cycle (Jun–Sep 2026) lives in a dedicated document: [SLEEP_ANALYSIS.md](./SLEEP_ANALYSIS.md).
 
----
-
-## Race Plan
-
-The full race-day plan — timeline, per-leg pacing targets, and a pre-race checklist built from the Bonn 2026 lessons — lives in a dedicated document: [RACE_PLAN.md](./RACE_PLAN.md).
-
----
-
 ## What Went Wrong
 
+- Did not have a race plan for this race;
 - Did not test my watch before the race and lost all data;
 - Lack of planning on nutrition
 - Did not took running equipment when checking in the bike (I could have left it all there during the day before the race);
