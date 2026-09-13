@@ -73,6 +73,7 @@ A detailed analysis of sleep quality, duration, and deficit across the training 
 - Vaseline in the neck and ankles for swimming;
 - Calibrate the bike tyres correctly before the racing (65-73 PSI);
 - Better planning on Transitions (T1 and T2);
+- Splash-splash-drink-drop technique :D (two water glasses per water station - pour water on your head, drink the rest and drop the cup);
 
 ## References
 
