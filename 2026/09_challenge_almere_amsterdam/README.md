@@ -78,6 +78,23 @@ A detailed analysis of sleep quality, duration, and deficit across the training 
 - Better planning on Transitions (T1 and T2);
 - Splash-splash-drink-drop technique :D (two water glasses per water station - pour water on your head, drink the rest and drop the cup);
 
+## Comparison with 2025 Edition
+
+**Improvements:**
+
+- Faster overall finish (`05:55:19` vs `06:00:08`) despite training roughly half the hours (88.7h vs 138h);
+- Transitions cut sharply: T1 `06:38` vs `11:12`, T2 `06:56` vs `09:12` — fixed 2025's slow transitions and "finding the bike" issue;
+- Faster cycling split (`03:06:44` vs `03:13:54`), aided by correct tyre calibration (avoided 2025's uncalibrated power meter/pacing problem);
+- Tested nutrition products (Maurten gel) and carb-loaded in advance, unlike 2025's untested, last-minute nutrition;
+- No repeat of 2025's bib-falling, missing sunscreen/cap, or crowded swim-start issues;
+
+**Could Be Improved:**
+
+- Running was slower (`01:52:34` vs `01:43:07`) despite an almost identical swim split — worth investigating;
+- Nutrition planning is still flagged as lacking, the same complaint as in 2025;
+- Equipment checks remain a recurring weak spot (forgotten chest bib, untested watch) — same category as 2025's bib and power-meter oversights;
+- Still no formal race-day plan, a gap carried over from 2025;
+
 ## References
 
 ```[text]
